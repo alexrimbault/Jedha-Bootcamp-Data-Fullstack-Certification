@@ -1,4 +1,4 @@
-# Jedha Bootcamp Data Fullstack Projects
+# Jedha Bootcamp Data Fullstack Certification Projects
 
 Bloc n°1 : Construction et alimentation d'une infrastructure de gestion de données
 
